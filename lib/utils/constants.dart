@@ -1,1 +1,1 @@
-const String baseUrl  = "https://fakestoreapi.com";
+const String baseUrl  = "https://dynamic-view-api.free.mockoapp.net";
